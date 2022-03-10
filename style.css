@@ -1,0 +1,31 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.home {
+    text-decoration: none;
+    color: black;
+    font-size: 40px;
+}
+
+.home:hover {
+    text-decoration: underline;
+    color: red;
+}
+
